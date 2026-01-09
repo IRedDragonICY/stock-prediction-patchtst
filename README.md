@@ -51,3 +51,14 @@ Run notebooks in order:
 - Fidyah Rahman (2200018185)
 
 Kapita Selekta - Kelompok 3
+
+## Report
+
+📄 **[Read Full Academic Report (PDF)](docs/REPORT.pdf)**  
+Comprehensive analysis of PatchTST vs Baseline models, including methodology, architectural diagrams, and experimental results.
+
+## License
+
+Copyright © 2026 Mohammad Farid Hendianto (IRedDragonICY).
+
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for more details.
