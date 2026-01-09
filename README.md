@@ -4,12 +4,14 @@ Comparative study of deep learning architectures for S&P 500 stock price forecas
 
 ## Models
 
-**Baseline** (`stock_prediction_baseline.ipynb`)
+**Baseline** (`stock_prediction_baseline.ipynb`)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IRedDragonICY/stock-prediction-patchtst/blob/main/stock_prediction_baseline.ipynb)
 - MLP (2-layer, 256 hidden units)
 - CNN (1D Conv with 64→128→256 channels)
 - LSTM (2-layer, 256 hidden, bidirectional)
 
-**PatchTST** (`stock_prediction_patchtst.ipynb`)
+**PatchTST** (`stock_prediction_patchtst.ipynb`)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IRedDragonICY/stock-prediction-patchtst/blob/main/stock_prediction_patchtst.ipynb)
 - Transformer-based architecture with patch tokenization
 - RevIN (Reversible Instance Normalization) for distribution shift
 - Config: 64 lookback, patch_len=8, stride=4, d_model=384, 8 heads, 5 layers
