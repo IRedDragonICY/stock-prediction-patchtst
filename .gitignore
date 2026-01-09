@@ -1,6 +1,9 @@
 # Model files
 models/
 
+# Report generator script
+docs/generate_report.py
+
 # Python
 __pycache__/
 *.py[cod]
